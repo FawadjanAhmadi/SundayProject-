@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Apr 11 07:26:06 PDT 2023
+micrometer-core-1.10.3-sources.jar>central=
+micrometer-core-1.10.3.jar>central=
+micrometer-core-1.10.3.pom>central=

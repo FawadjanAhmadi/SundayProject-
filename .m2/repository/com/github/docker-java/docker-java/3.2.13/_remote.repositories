@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 28 14:30:16 PDT 2022
+docker-java-3.2.13.jar>central=
+docker-java-3.2.13.pom>central=
+docker-java-3.2.13-sources.jar>central=

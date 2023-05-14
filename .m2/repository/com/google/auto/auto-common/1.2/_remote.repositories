@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 28 11:30:05 PDT 2022
+auto-common-1.2.jar>central=
+auto-common-1.2-sources.jar>central=
+auto-common-1.2.pom>central=

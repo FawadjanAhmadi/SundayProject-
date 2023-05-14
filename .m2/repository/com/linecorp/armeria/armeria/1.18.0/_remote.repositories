@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 05 16:47:33 PST 2022
+armeria-1.18.0-sources.jar>central=
+armeria-1.18.0.pom>central=
+armeria-1.18.0.jar>central=

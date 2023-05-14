@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 27 17:03:21 PDT 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1664323401019
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-jar-plugin\:jar\:3.0.2 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
